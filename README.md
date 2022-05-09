@@ -1,2 +1,5 @@
 # jogo-de-memoria-estilo-Genius
-Criando seu jogo de memória estilo Genius
+Jogo de memoria estilo Genius - Bootcamp Orbi Web Games Developer
+
+## Para rodar o projeto
+Para executar o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
